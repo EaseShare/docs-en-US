@@ -1,19 +1,19 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Mechanism](mechanism.md)
-* [Product vision](product-vision.md)
+* [Mechanism](ji-zhi.md)
+* [Product vision](chan-pin-zhan-wang.md)
 
-## 指南
+## Guide
 
-* [Create crypto wallet](zhi-nan/create-crypto-wallet.md)
-* [Get tokens](zhi-nan/get-tokens.md)
-* [Connect your crypto wallet](zhi-nan/connect-your-crypto-wallet.md)
-* [Publish works](zhi-nan/publish-works.md)
-* [Share works](zhi-nan/share-works.md)
-* [Download works](zhi-nan/download-works.md)
-* [Purchase NFT content](zhi-nan/purchase-nft-content.md)
+* [Create crypto wallet](guide/create-crypto-wallet.md)
+* [Get tokens](guide/get-tokens.md)
+* [Connect your crypto wallet](guide/connect-your-crypto-wallet.md)
+* [Publish works](guide/publish-works.md)
+* [Share works](guide/share-works.md)
+* [Download works](guide/download-works.md)
+* [Purchase NFT content](guide/purchase-nft-content.md)
 
-## 附录
+## Others
 
-* [关于我们](fu-lu/guan-yu-wo-men.md)
+* [About](others/about.md)
