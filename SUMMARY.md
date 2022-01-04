@@ -16,4 +16,4 @@
 
 ## Others
 
-* [About](others/about.md)
+* [WhitePaper](others/whitepaper.md)
