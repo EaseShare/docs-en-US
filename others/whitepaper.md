@@ -21,7 +21,8 @@ EaseShare uses a hierarchical casting model from the NFT root node downwards, wh
 All of that will become reality just by clicking the  "Share" button.\
 ****\
 ****\
-&#x20;                                                        **### Feature**\
+****\
+&#x20;                                                              **Feature**\
 ****\
 ****Decentralisation: EaseShare's product logic is executed by the blockchain. When users upload information, generate works and store them, all information about the works and their ownership will be stored directly and permanently on the blockchain, and EaseShare has no right to modify or delete any work content of the platform users.\
 \
@@ -38,7 +39,8 @@ Secondary Creation: When a creator chooses to allow secondary creation of their 
 Community Governance: EaseShare encourages users to use any ERC-20, BEP-20, Polygon network standard pass-through token as a credential for settling revenue and paying fees for the work system. Users will form a decentralised governance organisation based on such tokens based on passwords.\
 \
 \
-&#x20;                                              **### Technology**\
+\
+&#x20;                                            **Technology**\
 ****\
 ****NFT (Non-Fungible Token): EaseShare enables each user's interest to be tagged by an NFT pass through NFT technology, with ownership protected by the blockchain, where transfers, transactions and receipt of benefits are abstracted as methods to the NFT object, and neither other users nor the EaseShare platform can interfere with the user's own actions.\
 \
@@ -47,7 +49,8 @@ Smart Contracts: EaseShare uses a decentralized approach to build applications, 
 Decentralised storage: EaseShare uses IPFS (InterPlanetary File System) as its storage medium. Unlike traditional applications, EaseShare's distributed storage of users' work gives the platform no right to tamper with or delete users' content stored on IPFS, achieving complete decentralisation and security.\
 \
 \
-&#x20;                                           **### Architecture**\
+\
+&#x20;                                            **Architecture**\
 ****\
 ****EaseShare is a unique decentralised NFT content creation and sharing platform, based on the web 3.0 concept. Everyone can create their own NFT work on EaseShare and set a fee for the sale and distribution of their work. Any sale and distribution after the NFT has been generated will result in revenue for the work holder or node user. Unlike traditional NFTs, EaseShare published NFTs are not cast by the publisher all at once, but at the time of publication, each publisher will have a root NFT, and new NFT child nodes will be created when the work is purchased by the work's backer or sharer. The NFT from a child node can be re-cast to create the next level of child NFTs.\
 \
