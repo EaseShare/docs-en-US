@@ -1,6 +1,6 @@
 # WhitePaper
 
-&#x20;                                                  **Foreword**\
+&#x20;                                                     **Foreword**\
 ****In January 1996, Bill Gates published an article entitled "Content is King", which became one of the early Internet classics. In that article he described the characteristics of the Internet that laid the foundation for the creator economy. He wrote: "One of the exciting things about the Internet is that anyone with a personal computer and a modem can publish any content they create."\
 \
 Creation and sharing as a way for humans to gain recognition from each other allows people to connect and trust each other in the process of communication, thus forming an identity. The world of the internet has never been easier to share, with freshly shared content instantly flowing into a torrent of data at the touch of a keyboard and mouse. The internet has brought about a golden age of media - a world of infinite abundance where anyone can create what they want and everyone can find what interests them. But while Gates' prediction about making money from online content proved correct, most of the money bypassed the creators who created the content and went into the pockets of the platforms that aggregated it.\
@@ -12,17 +12,15 @@ In the Web 2.0 era, we have been poisoned by numerous centralized monopolistic t
 A success of a book, only possible with the talent of a writer, is only made possible by publishers and distributors. The magic of a live performance, wrapped in the fate of decisions of agencies and venues. This demonstrates how the sharing of knowledge and culture has become unnecessarily separated by multiple entities. Middlemen are sandwiched between the two parties to earn profits，the process of sharing art has become complex and inefficient.  \
 \
 \
-&#x20;            **Solutions——All you need is to press the share button**\
+&#x20;                **Solutions——All you need is to press the share button**\
 ****\
 ****EaseShare will break through the centralized monopoly of content distribution by offering users a new, open source way of distributing and distributing NFT, through which anyone can become a creator and a sharer. In a decentralised world, creators are no longer restricted from creating content, everything is possible and anyone can interact with every user face to face. EaseShare makes it possible for every share to be a direct or indirect supporter of the creator, for every share to be a direct financial contribution to the creator, and for every share to be a part of the share to be a benefit to both the creator and the shareholder.\
 \
 EaseShare uses a hierarchical casting model from the NFT root node downwards, where content publishers own the root node of the NFT they publish, and users who purchase the work directly receive a corresponding number of cast sub-nodes, which can continue to be purchased and cast, forming new sub-nodes upon success. In the chain of child nodes that expand outwards from the root node, each node owner will receive a cut of the revenue from all the child nodes cast below their node, while the user who owns the root node will receive a fixed royalty and a cut of the node's revenue from the sale of each lower level node. From the creator to the sharer, everyone involved in the distribution of the work is linked together, and every click of the "share" button will create an interaction with all participants, which will become the common work of the creator and the sharer, eventually making it a huge model of creative sharing economy --Tree structure. EaseShare users are both users and owners of the platform, and all digital assets are stored on the user's wallet blockchain address. The misuse of personal information by centralized platforms will become a thing of the past in EaseShare, and the value of sharing will return to each participant.\
-\
 All of that will become reality just by clicking the  "Share" button.\
 ****\
 ****\
-****\
-&#x20;                                                              **Feature**\
+&#x20;                                                                 **Feature**\
 ****\
 ****Decentralisation: EaseShare's product logic is executed by the blockchain. When users upload information, generate works and store them, all information about the works and their ownership will be stored directly and permanently on the blockchain, and EaseShare has no right to modify or delete any work content of the platform users.\
 \
@@ -40,7 +38,7 @@ Community Governance: EaseShare encourages users to use any ERC-20, BEP-20, Poly
 \
 \
 \
-&#x20;                                            **Technology**\
+&#x20;                                                **Technology**\
 ****\
 ****NFT (Non-Fungible Token): EaseShare enables each user's interest to be tagged by an NFT pass through NFT technology, with ownership protected by the blockchain, where transfers, transactions and receipt of benefits are abstracted as methods to the NFT object, and neither other users nor the EaseShare platform can interfere with the user's own actions.\
 \
@@ -50,7 +48,7 @@ Decentralised storage: EaseShare uses IPFS (InterPlanetary File System) as its s
 \
 \
 \
-&#x20;                                            **Architecture**\
+&#x20;                                               **Architecture**\
 ****\
 ****EaseShare is a unique decentralised NFT content creation and sharing platform, based on the web 3.0 concept. Everyone can create their own NFT work on EaseShare and set a fee for the sale and distribution of their work. Any sale and distribution after the NFT has been generated will result in revenue for the work holder or node user. Unlike traditional NFTs, EaseShare published NFTs are not cast by the publisher all at once, but at the time of publication, each publisher will have a root NFT, and new NFT child nodes will be created when the work is purchased by the work's backer or sharer. The NFT from a child node can be re-cast to create the next level of child NFTs.\
 \
