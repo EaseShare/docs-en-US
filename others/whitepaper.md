@@ -1,6 +1,6 @@
 # WhitePaper
 
-&#x20;                                                     **Foreword**\
+**Foreword**\
 ****In January 1996, Bill Gates published an article entitled "Content is King", which became one of the early Internet classics. In that article he described the characteristics of the Internet that laid the foundation for the creator economy. He wrote: "One of the exciting things about the Internet is that anyone with a personal computer and a modem can publish any content they create."\
 \
 Creation and sharing as a way for humans to gain recognition from each other allows people to connect and trust each other in the process of communication, thus forming an identity. The world of the internet has never been easier to share, with freshly shared content instantly flowing into a torrent of data at the touch of a keyboard and mouse. The internet has brought about a golden age of media - a world of infinite abundance where anyone can create what they want and everyone can find what interests them. But while Gates' prediction about making money from online content proved correct, most of the money bypassed the creators who created the content and went into the pockets of the platforms that aggregated it.\
@@ -12,7 +12,7 @@ In the Web 2.0 era, we have been poisoned by numerous centralized monopolistic t
 A success of a book, only possible with the talent of a writer, is only made possible by publishers and distributors. The magic of a live performance, wrapped in the fate of decisions of agencies and venues. This demonstrates how the sharing of knowledge and culture has become unnecessarily separated by multiple entities. Middlemen are sandwiched between the two parties to earn profits，the process of sharing art has become complex and inefficient.  \
 \
 \
-&#x20;                **Solutions——All you need is to press the share button**\
+**Solutions——All you need is to press the share button**\
 ****\
 ****EaseShare will break through the centralized monopoly of content distribution by offering users a new, open source way of distributing and distributing NFT, through which anyone can become a creator and a sharer. In a decentralised world, creators are no longer restricted from creating content, everything is possible and anyone can interact with every user face to face. EaseShare makes it possible for every share to be a direct or indirect supporter of the creator, for every share to be a direct financial contribution to the creator, and for every share to be a part of the share to be a benefit to both the creator and the shareholder.\
 \
@@ -20,13 +20,14 @@ EaseShare uses a hierarchical casting model from the NFT root node downwards, wh
 All of that will become reality just by clicking the  "Share" button.\
 ****\
 ****\
-&#x20;                                                                 **Feature**\
+**Feature**\
 ****\
 ****Decentralisation: EaseShare's product logic is executed by the blockchain. When users upload information, generate works and store them, all information about the works and their ownership will be stored directly and permanently on the blockchain, and EaseShare has no right to modify or delete any work content of the platform users.\
 \
-DID: DID is Decentralized Identity. The W3C's DID specification is a widely accepted standard that ensures identity systems can interoperate across different networks and platforms. \
-The DID architecture is outlined in the diagram below.\
-![](https://lh4.googleusercontent.com/4eDzl4RWe\_9M7E1EkVUPJmo-2UxB268V8rYRjtBWp8vBqfYDgQWFDB0orkLfcRdCDTdyy4KumprsQGoahxHK-czwJkjHgcn6y1L6NSQJ1oprlTwRvcuhVL63744xb-x-w4QqQPAR)\
+DID: DID is Decentralized Identity. The W3C's DID specification is a widely accepted standard that ensures identity systems can interoperate across different networks and platforms. The DID architecture is outlined in the diagram below：\
+\
+![](<../.gitbook/assets/image (3).png>)\
+\
 A DID is an address on the Internet that one can own and control directly. It can be used to find associated DID documents, which contain information associated with the DID. a DID document contains relevant information to enable use cases such as login, data encryption, communication etc. Cryptographic proofs, such as digital signatures, allow entities to prove control over these identifiers.\
 \
 \
@@ -38,7 +39,7 @@ Community Governance: EaseShare encourages users to use any ERC-20, BEP-20, Poly
 \
 \
 \
-&#x20;                                                **Technology**\
+**Technology**\
 ****\
 ****NFT (Non-Fungible Token): EaseShare enables each user's interest to be tagged by an NFT pass through NFT technology, with ownership protected by the blockchain, where transfers, transactions and receipt of benefits are abstracted as methods to the NFT object, and neither other users nor the EaseShare platform can interfere with the user's own actions.\
 \
@@ -48,7 +49,7 @@ Decentralised storage: EaseShare uses IPFS (InterPlanetary File System) as its s
 \
 \
 \
-&#x20;                                               **Architecture**\
+**Architecture**\
 ****\
 ****EaseShare is a unique decentralised NFT content creation and sharing platform, based on the web 3.0 concept. Everyone can create their own NFT work on EaseShare and set a fee for the sale and distribution of their work. Any sale and distribution after the NFT has been generated will result in revenue for the work holder or node user. Unlike traditional NFTs, EaseShare published NFTs are not cast by the publisher all at once, but at the time of publication, each publisher will have a root NFT, and new NFT child nodes will be created when the work is purchased by the work's backer or sharer. The NFT from a child node can be re-cast to create the next level of child NFTs.\
 \
